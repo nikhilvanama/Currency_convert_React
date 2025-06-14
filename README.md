@@ -6,7 +6,7 @@ Please follow these steps to run your Currency Converter project without any err
 1. Sign up for an account at [ExchangeRate-API](https://www.exchangerate-api.com/).
 2. Navigate to the API key section and generate a new API key.
 
-**Note:** The API is free but has a limited number of requests per day.
+**Note :** The API is free but has a limited number of requests per day.
 
 ## Insert Your API Key
 1. Open your project folder in VS Code.
